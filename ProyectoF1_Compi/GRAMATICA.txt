@@ -1,0 +1,12 @@
+function tamalito(int Guatemala){
+
+    while(true){
+        write("asdasda");
+    }
+
+    return Guatemala
+}
+
+int hola ;
+
+int test = 23;
